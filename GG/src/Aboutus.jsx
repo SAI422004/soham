@@ -5,7 +5,7 @@ import Form from 'react-bootstrap/Form';
 const Aboutus = () => {
   return (
     <div>
-      <h1>Know more hwllo saklfjalskabut F1</h1>
+      <h1>Know more abut F1</h1>
       <Form>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Email address</Form.Label>
